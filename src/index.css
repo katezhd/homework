@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700&display=swap');
+body {
+  margin: 0;
+  font-family: 'Lato', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: rgb(81,18,171);
+  background: linear-gradient(90deg, rgba(81,18,171,1) 0%, rgba(81,18,171,1) 20%, rgba(72,15,154,1) 20%, rgba(72,15,154,1) 40%, rgba(66,20,145,1) 40%, rgba(66,20,145,1) 60%, rgba(63,20,142,1) 60%, rgba(63,20,142,1) 80%, rgba(55,17,136,1) 80%);
+  /* min-height: 100vh; */
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
